@@ -1,0 +1,100 @@
+############################
+# Unity
+############################
+
+# Carpetas generadas automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+
+# Colab / Plastic / Cache
+[Pp]lasticSCM/
+[Pp]lasticSCMCache/
+[Pp]rojectSettings/Layouts.wlt
+[Ss]ysinfo.txt
+
+# Datos de la versión del editor
+UnityGenerated/
+*.pidb
+*.booproj
+
+# Asset Store y descargas
+Assets/AssetStoreTools*
+Assets/StreamingAssets/aa.meta
+
+############################
+# Archivos de proyecto C#/IDE
+############################
+
+# Soluciones y proyectos autogenerados por Unity
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VS / VS Code
+.vs/
+.vscode/
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+############################
+# Sistema operativo
+############################
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+############################
+# Archivos de compilación
+############################
+
+# Builds
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.xcconfig
+*.xcsettings
+*.dSYM
+*.il2cpp/
+
+############################
+# Otros
+############################
+
+# Logs
+*.log
+
+# Archivos de bloqueo temporales
+*.swp
+*.lock
+*.tmp
+*.bak
+*.orig
